@@ -14,6 +14,7 @@ cask "gh-menu-stars" do
   end
 
   depends_on macos: ">= :ventura"
+  depends_on arch: :arm64
 
   app "GHMenuStars.app"
 
