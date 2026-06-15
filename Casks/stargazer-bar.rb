@@ -1,6 +1,6 @@
 cask "stargazer-bar" do
-  version "0.2.3"
-  sha256 "e262979f68772379255746281aeafad366afdb5a028394f07f0a7863d9811c81"
+  version "0.3"
+  sha256 "380095678d6af63a063c4139ca78449d25be53cc908b190f60070c93ac894b3d"
 
   url "https://github.com/jazzyalex/stargazer-bar/releases/download/v#{version}/Stargazer-Bar-#{version}.dmg",
       verified: "github.com/jazzyalex/stargazer-bar/"
